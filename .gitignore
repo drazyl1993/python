@@ -1,0 +1,8 @@
+# vim
+*.*~
+
+# java
+*.class
+
+# python
+*.pyc
